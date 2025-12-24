@@ -7,6 +7,10 @@
 ![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![API](https://img.shields.io/badge/API-REST-blue)
+![Database](https://img.shields.io/badge/Database-Relational-lightgrey)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
 
 ---
 
