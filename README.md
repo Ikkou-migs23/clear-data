@@ -167,6 +167,6 @@ As a final step, a **REST API using Flask** is developed to simplify **data inse
 
 ## 👤 Author
 
-Developed by **[Your Name]**
-📧 Email: [your-email@email.com](mailto:your-email@email.com)
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)
+Developed by **Miguel Soares Da Silva**
+📧 Email: [your-email@email.com](mailto:use.if1001guidovanrossum63print@gmail.com)
+🔗 GitHub: [https://github.com/your-username](https://github.com/Ikkou-migs23)
